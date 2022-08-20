@@ -46,5 +46,5 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 *   Yingru Lin (Alibaba, China), Siqu Long (IBM, China - back to PhD with me), Colin Gu (Freelancer.com ®, Australia), Rina Cabral (UNSW, Australia - back to PhD with me), Roy Luo (Huawei, China), Huichun Li (Tencent, China), Dong Lu (Opera Software International 'Opera Browser'), Zean Wen (Microsoft, China), Hamish Ivison (Allen Institute for AI, U.S.), Alex Mirrington (Rokt, Australia), Xiaoqi Huang (Deputy, Australia), Jeffery Zeng (Amazon, Australia)
 
 ### Links
-*   AD-NLP Website (Will be released by the end of August, 2022)
+*   **AD-NLP Website** (Will be released by the end of August, 2022)
 *   [USYDNLP Website](https://usydnlp.info/).
