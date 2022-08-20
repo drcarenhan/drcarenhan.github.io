@@ -1,3 +1,8 @@
+---
+layout: home
+author_profile: true
+---
+
 I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a senior lecturer (Associate Professor in U.S. System) at the University of Western Australia and an honarary senior lecturer (honarary Associate Professor in U.S. System) at the University of Sydney and University of Ediburough. After my Ph.D., I have been worked for 6 years at the University of Sydney. My research interests include Natural Language Processing with Deep Learning. I am broadly interested in several research topics, including visual-linguistic multi-modal learning, abusive language detection, document layout analysis, and recommender system.  
 
 
