@@ -30,7 +30,7 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 *   BEST PAPER AWARD, PKAW Pacific Rim Knowledge Acquisition 2012
 
 
-### Selected Academic Services and Program Committee (Recent)
+### Selected Academic Services (Recent)
 *   2022: EMNLP 2022, NAACL 2022, ACL 2022, WWW 2022, SIGIR 2022, IJCAI 2022, AAAI 2022
 *   2021: EMNLP 2021, NAACL 2021, ACL 2021, WWW 2021, AAAI 2021
 
