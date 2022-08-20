@@ -2,15 +2,15 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 
 
 ## News (Only 5 recent outstanding news are shared)
-*   Three of our papers are accepted in COLING 2022
-*   Our paper is accepted in ACM Computing Survey
-*   Our paper is accepted in IJCAI 2022
-*   Our paper is accepted in CVPR 2022
-*   Our paper is accepted in NAACL 2022
+*   Three of our papers are accepted in COLING 2022 (August.2022)
+*   Our paper is accepted in ACM Computing Survey (July.2022)
+*   Our paper is accepted in IJCAI 2022 (June.2022)
+*   Our paper is accepted in NAACL 2022 (May.2022)
+*   Our paper is accepted in CVPR 2022 (March.2022)
 
 
 ## Publications
-*   [Selected Publications](./another-page.html).
+*   Selected Publications(Will be released by the end of August, 2022).
 *   [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=VH2jVOgAAAAJ&view_op=list_works&sortby=pubdate)
 *   [DBLP](https://dblp.org/pid/24/10567.html)
 
