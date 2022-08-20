@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Dr Caren Han
 email: Caren.Han@sydney.edu.au
-description: "Senior Lecturer(Assoc. Professor in U.S.)"
+description: "Senior Lecturer\n(Associate Professor in U.S.)"
 logo: "./caren_fun.jpg"
