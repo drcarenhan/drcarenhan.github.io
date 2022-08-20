@@ -46,7 +46,7 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 *   Yingru Lin (Alibaba, China), Siqu Long (IBM, China - back to PhD with me), Colin Gu (Freelancer.com ®, Australia), Rina Cabral (UNSW, Australia - back to PhD with me), Roy Luo (Huawei, China), Huichun Li (Tencent, China), Dong Lu (Opera Software International 'Opera Browser'), Zean Wen (Microsoft, China), Hamish Ivison (Allen Institute for AI, U.S.), Alex Mirrington (Rokt, Australia), Xiaoqi Huang (Deputy, Australia), Jeffery Zeng (Amazon, Australia)
 
 ### International Academic/Industry/Government Collaborators
-*   **Industry/Government**: Australia Defense, Thales, Microsoft, FortifyEdge, NASA, U.S. Naval Research Centre, U.S. AirForce Research Centre, Korea Ministry of Commerce Industry and Energy).
+*   **Industry/Government**: Australia Defense, Thales, Microsoft, FortifyEdge, Google, U.S. Naval Research Centre, U.S. AirForce Research Centre, Korea Ministry of Commerce Industry and Energy).
 *   **University/Research Centre**: The University of Hong Kong, The Chinese University of Hong Kong (CUHK), Peking University, Korea Advanced Institute of Science & Technology (KAIST), Pohang University of Science and Technology, Yonsei University, CSIRO, The University of Manchester, The University of Edinburgh, University of Cambridge.
 
 
