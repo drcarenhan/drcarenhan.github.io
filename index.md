@@ -38,7 +38,7 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 *   Computer Analysis and Visualisation (Undergraduate Course, 2022, University of Western Australia)
 
 ### Students
-*   **PhD Students**: Henry Weld, Siqu Long (Sharon), Siwen Luo, Jie Yang, Kunze Wan, Eileen Wang, Yihao Ding, Chen Chen, Jean Lee, Feiqi Cao, Rina Cabral, Fariza Rashid,  Yan Li
+*   **PhD Students**: Henry Weld, Siqu Long (Sharon), Siwen Luo, Jie Yang, Kunze Wang, Eileen Wang, Yihao Ding, Chen Chen, Jean Lee, Feiqi Cao, Rina Cabral, Fariza Rashid,  Yan Li
 *   **Master Students**: Andy Bui, Taejun Lim, Zhihao Zhang, Yue Dai, Julia Juyoung Kim
 *   **Honours Students**: Brandon Chen, Joji Tenges, Marten Deng, Patrick Wong, Scarlett Hu
 
