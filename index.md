@@ -10,7 +10,6 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 
 
 ### Publications
-*   **Selected Publications** (Will be released by the end of August, 2022).
 *   [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=VH2jVOgAAAAJ&view_op=list_works&sortby=pubdate)
 *   [DBLP](https://dblp.org/pid/24/10567.html)
 
