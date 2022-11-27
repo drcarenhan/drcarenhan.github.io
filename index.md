@@ -1,12 +1,18 @@
-I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a senior lecturer (Associate Professor in U.S. System) at the University of Western Australia and an honorary senior lecturer (honorary Associate Professor in U.S. System) at the University of Sydney and University of Edinburgh. After my Ph.D.(in 2017), I have been worked for 6 years at the University of Sydney. My research interests include Natural Language Processing with Deep Learning. I am broadly interested in several research topics, including visual-linguistic multi-modal learning, abusive language detection, document layout analysis, and recommender system.  
+I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a senior lecturer (Associate Professor in U.S. System) at the University of Western Australia and an honorary senior lecturer (honorary Associate Professor in U.S. System) at the University of Sydney. After my Ph.D.(in 2017), I have been worked for 6 years at the University of Sydney. My research interests include Natural Language Processing with Deep Learning. I am broadly interested in several research topics, including visual-linguistic multi-modal learning, abusive language detection, document layout analysis, and recommender system.  
 
 
-### News (5 recent outstanding news)
-*   Three of our papers are accepted in COLING 2022 (August.2022)
-*   Our paper is accepted in ACM Computing Survey (July.2022)
-*   Our paper is accepted in IJCAI 2022 (June.2022)
-*   Our paper is accepted in NAACL 2022 (May.2022)
-*   Our paper is accepted in CVPR 2022 (March.2022)
+### News (recent outstanding news)
+*   Our paper is accepted at WSDM 2023 (November.2022)
+*   Our paper is accepted at AAAI 2023 (November.2022)
+*   Three of our papers are accepted at COLING 2022 (August.2022)
+*   Our paper is accepted at ICPR 2022 (July.2022)
+*   Our paper is accepted at ACM Computing Survey (July.2022)
+*   Our paper is accepted at IJCAI 2022 (June.2022)
+*   Our paper is accepted at NAACL 2022 (May.2022)
+*   Our paper is accepted in Knowledge and Information System Journal (April.2022)
+*   Our paper is accepted at CVPR 2022 (March.2022)
+*   Our paper is accepted at ICLR 2022 (March.2022)
+
 
 
 ### Publications
