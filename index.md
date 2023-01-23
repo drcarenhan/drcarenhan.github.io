@@ -2,6 +2,7 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 
 
 ### News (recent outstanding news)
+*   Our Tutorial Proposal is accepted at WWW 2023 (December.2022)
 *   Our paper is accepted at WSDM 2023 (November.2022)
 *   Our paper is accepted at AAAI 2023 (November.2022)
 *   Three of our papers are accepted at COLING 2022 (August.2022)
@@ -33,6 +34,7 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 
 
 ### Selected Academic Services (Recent)
+*   2022: Served as a Tutorial Chair at AJCAI 2022
 *   2022: EMNLP 2022, NAACL 2022, ACL 2022, WWW 2022, SIGIR 2022, IJCAI 2022, AAAI 2022
 *   2021: EMNLP 2021, NAACL 2021, ACL 2021, WWW 2021, AAAI 2021
 
