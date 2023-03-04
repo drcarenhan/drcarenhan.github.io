@@ -1,4 +1,4 @@
-I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a senior lecturer (Associate Professor in U.S. System) at the University of Western Australia and an honorary senior lecturer (honorary Associate Professor in U.S. System) at the University of Sydney. After my Ph.D.(in 2017), I have been worked for 6 years at the University of Sydney. My research interests include Natural Language Processing with Deep Learning. I am broadly interested in several research topics, including visual-linguistic multi-modal learning, abusive language detection, document layout analysis, and recommender system.  
+I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a senior lecturer (Associate Professor in U.S. System) at the University of Western Australia and an honorary senior lecturer (honorary Associate Professor in U.S. System) at the University of Sydney and the University of Edinburgh. After my Ph.D.(in 2017), I have been worked for 6 years at the University of Sydney. My research interests include Natural Language Processing with Deep Learning. I am broadly interested in several research topics, including visual-linguistic multi-modal learning, abusive language detection, document layout analysis, and recommender system.  
 
 
 ### News (recent outstanding news)
@@ -34,8 +34,8 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 
 
 ### Selected Academic Services (Recent)
-*   2022: Served as a Tutorial Chair at AJCAI 2022
-*   2022: EMNLP 2022, NAACL 2022, ACL 2022, WWW 2022, SIGIR 2022, IJCAI 2022, AAAI 2022
+*   2023: AAAI 2023, IJCAI 2023, ACL 2023, SIGIR 2023, Joined as a Editoral Board of NLP at the Frontiers of Artificial Intelligence (2023-) 
+*   2022: EMNLP 2022, NAACL 2022, ACL 2022, WWW 2022, SIGIR 2022, IJCAI 2022, AAAI 2022, Tutorial Chair at AJCAI 2022
 *   2021: EMNLP 2021, NAACL 2021, ACL 2021, WWW 2021, AAAI 2021
 
 
@@ -49,7 +49,7 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 ### Students
 *   **PhD Students**: Henry Weld, Siqu Long (Sharon), Siwen Luo, Jie Yang, Kunze Wang, Eileen Wang, Yihao Ding, Chen Chen, Jean Lee, Feiqi Cao, Rina Cabral, Fariza Rashid,  Yan Li
 *   **Master Students**: Andy Bui, Taejun Lim, Zhihao Zhang, Yue Dai, Julia Juyoung Kim
-*   **Honours Students**: Brandon Chen, Joji Tenges, Marten Deng, Patrick Wong, Scarlett Hu
+*   **Honours Students**: Jonathan Wang, Jamie Mickaill, Thye Shan Ng
 
 ### Alumni
 *   Yingru Lin (Alibaba, China), Siqu Long (IBM, China - back to PhD with me), Colin Gu (Freelancer.com ®, Australia), Rina Cabral (UNSW, Australia - back to PhD with me), Roy Luo (Huawei, China), Huichun Li (Tencent, China), Dong Lu (Opera Software International 'Opera Browser'), Zean Wen (Microsoft, China), Hamish Ivison (Allen Institute for AI, U.S.), Alex Mirrington (Rokt, Australia), Xiaoqi Huang (Deputy, Australia), Jeffery Zeng (Amazon, Australia)
