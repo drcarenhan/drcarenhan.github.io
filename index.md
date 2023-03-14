@@ -2,7 +2,8 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 
 
 ### News (recent outstanding news)
-*   Our Tutorial Proposal is accepted at WWW 2023 (December.2022)
+*   Our Tutorial Proposal is accepted at WWW 2023 (January.2023)
+*   Our paper(with Peking Uni) is accepted at MM 2023 (January.2022)
 *   Our paper is accepted at WSDM 2023 (November.2022)
 *   Our paper is accepted at AAAI 2023 (November.2022)
 *   Three of our papers are accepted at COLING 2022 (August.2022)
