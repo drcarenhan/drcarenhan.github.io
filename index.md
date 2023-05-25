@@ -2,6 +2,7 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 
 
 ### News (recent outstanding news)
+*   Our paper is accepted at InterSpeech 2023 (May.2023)
 *   Our paper is accepted at SIGIR 2023 (April.2023)
 *   Our paper is accepted at Frontier Journal (Impact Factor 9.25) (March.2023)
 *   Our Tutorial Proposal is accepted at WWW 2023 (January.2023)
