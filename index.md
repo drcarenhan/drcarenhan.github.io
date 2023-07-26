@@ -2,7 +2,7 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 
 
 ### News (recent outstanding news)
-*   Our Workshop Proposal is accepted at CIKM 2023 (Jul.2023) - Please join our Workshop at CIKM 2023!
+*   We organise a Workshop [DocIU](https://doc-iu.github.io/) at CIKM 2023 (Top-tier Information Retreival Conference) - Supported by Google and Microsoft
 *   Our paper is accepted at ECMLPKDD 2023 (Jun.2023)
 *   Our paper is accepted at InterSpeech 2023 (May.2023)
 *   Our paper is accepted at SIGIR 2023 (April.2023)
