@@ -49,9 +49,8 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 *   Natural Language Processing (Postgraduate Course, 2023, University of Western Australia) Achieved 100% Student Satisfaction
 *   Natural Language Processing (Postgraduate Course, 2018 ~ 2022, University of Sydney) _Achieved Highest Student Satisfaction in the University_
 *   Machine Learning and Data Mining (Postgraduate Course, 2020, University of Sydney)
-*   Engineering Computing (Undergraduate Course, 2022, University of Sydney)
-*   Computer Analysis and Visualisation (Undergraduate Course, 2022, University of Western Australia)
-*   Natural Language Processing (Postgraduate Course, 2023, University of Western Australia)
+*   Engineering Computing (Undergraduate Course, 2021 - 2022, University of Sydney)
+*   Computer Analysis and Visualisation (Undergraduate Course, 2022 - 2023, University of Western Australia)
 
 ### Students
 *   **PhD Students**: Henry Weld, Siqu Long (Sharon), Siwen Luo, Jie Yang, Kunze Wang, Eileen Wang, Yihao Ding, Chen Chen, Jean Lee, Feiqi Cao, Rina Cabral, Fariza Rashid,  Yan Li, Zichen Geng, Xiaoge Zhang
