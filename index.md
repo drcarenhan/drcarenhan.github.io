@@ -2,7 +2,8 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 
 
 ### News (recent outstanding news)
-*   We organise a Workshop [DocIU](https://doc-iu.github.io/) at CIKM 2023 (Top-tier Information Retreival Conference) - Supported by Google and Microsoft
+*   Our paper is accepted at CIKM 2023 (Aug. 2023)
+*   We organise a Workshop [DocIU](https://doc-iu.github.io/) at CIKM 2023 - Supported by Google and Microsoft
 *   Our paper is accepted at ECMLPKDD 2023 (Jun.2023)
 *   Our paper is accepted at InterSpeech 2023 (May.2023)
 *   Our paper is accepted at SIGIR 2023 (April.2023)
@@ -39,7 +40,7 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 
 
 ### Selected Academic Services (Recent)
-*   2023: AAAI 2023, IJCAI 2023, ACL 2023, SIGIR 2023, Joined as a Editoral Board of NLP at the Frontiers of Artificial Intelligence (2023-) 
+*   2023: AAAI 2023, IJCAI 2023, ACL 2023, SIGIR 2023, Joined as an Editorial Board of NLP at the Frontiers of Artificial Intelligence (2023-) 
 *   2022: EMNLP 2022, NAACL 2022, ACL 2022, WWW 2022, SIGIR 2022, IJCAI 2022, AAAI 2022, Tutorial Chair at AJCAI 2022
 *   2021: EMNLP 2021, NAACL 2021, ACL 2021, WWW 2021, AAAI 2021
 
@@ -53,7 +54,7 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 
 ### Students
 *   **PhD Students**: Henry Weld, Siqu Long (Sharon), Siwen Luo, Jie Yang, Kunze Wang, Eileen Wang, Yihao Ding, Chen Chen, Jean Lee, Feiqi Cao, Rina Cabral, Fariza Rashid,  Yan Li
-*   **Master Students**: Andy Bui, Taejun Lim, Zhihao Zhang, Yue Dai, Julia Juyoung Kim
+*   **Master Students**: Andy Bui, Taejun Lim, Zhihao Zhang, Yue Dai, Julia Juyoung Kim, Eric Pullukaran, Allen Ji 
 *   **Honours Students**: Jonathan Wang, Jamie Mickaill, Thye Shan Ng
 
 ### Alumni
