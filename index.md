@@ -66,5 +66,5 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 
 
 ### Links
-*   **AD-NLP Website** (Will be released by the end of November, 2022)
+*   **AD-NLP Website** (Will be released soon)
 *   [USYDNLP Website](https://usydnlp.info/).
