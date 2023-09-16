@@ -29,11 +29,12 @@ I am currently co-leader of AD-NLP (Australia Deep Learning NLP Group) and a sen
 
 
 ### Honors and Awards
-*   University of Sydney Dean's Outstanding Teaching Award, 2018 - 2021
-*   University of Sydney, SUPRA, Supervisor of the Year 2021
+*   Early Career Research Award (Physics, Math and Computing), 2023, University of Western Australia
+*   Dean's Outstanding Teaching Award, 2018 - 2021, University of Sydney 
+*   Supervisor of the Year 2021, University of Sydney
 *   BEST AREA PAPER AWARD, THE 29TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS COLING 2020
 *   BEST PAPER AWARD, The 27th International Conference on Neural Information Processing 2020
-*   University of Sydney, SUPRA, Teacher of the Year 2020
+*   Teacher of the Year 2020, University of Sydney
 *   Australian Young Achiever Certificate (Teaching Excellence) 2017
 *   University of Tasmania, Teaching Excellence Awards 2014
 *   BEST PAPER AWARD, PKAW Pacific Rim Knowledge Acquisition 2012
