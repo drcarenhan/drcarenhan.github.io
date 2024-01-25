@@ -2,6 +2,7 @@
 
 
 ### News (recent outstanding news)
+*   Our paper is accepted at EACL 2024 (Jan. 2024)
 *   Our paper is accepted at AAAI 2024 (Dec. 2023)
 *   Our paper is accepted at EMNLP 2023 (Oct. 2023)
 *   Our paper is accepted at CIKM 2023 (Aug. 2023)
