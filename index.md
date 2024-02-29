@@ -2,6 +2,7 @@
 
 
 ### News (recent outstanding news)
+*   Our paper is accepted at ACM Computing Survey (Feb. 2024)
 *   Our paper is accepted at EACL 2024 (Jan. 2024)
 *   Our paper is accepted at AAAI 2024 (Dec. 2023)
 *   Our paper is accepted at EMNLP 2023 (Oct. 2023)
@@ -57,7 +58,7 @@
 *   Engineering Computing (Undergraduate Course, 2021 - 2022, University of Sydney)
 *   Computer Analysis and Visualisation (Undergraduate Course, 2022 - 2023, University of Western Australia)
 
-### Students
+### Students (Graduates)
 *   **PhD Students**: Henry Weld, Siqu Long (Sharon), Siwen Luo, Jie Yang, Kunze Wang, Eileen Wang, Yihao Ding, Chen Chen, Jean Lee, Feiqi Cao, Rina Cabral, Fariza Rashid,  Yan Li, Zichen Geng, Xiaoge Zhang
 *   **Master Students**: Andy Bui, Taejun Lim, Zhihao Zhang, Yue Dai, Julia Juyoung Kim, Eric Pullukaran, Allen Ji, Shuo Yang
 *   **Honours Students**: Jonathan Wang, Jamie Mickaill, Thye Shan Ng
