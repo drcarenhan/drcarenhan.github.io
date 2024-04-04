@@ -2,6 +2,7 @@
 
 
 ### News (recent outstanding news)
+*   Our tutorial is accepted at IJCAI 2024 (Apr. 2024)
 *   Our paper is accepted at ACM Computing Survey (Feb. 2024)
 *   Our paper is accepted at EACL 2024 (Jan. 2024)
 *   Our paper is accepted at AAAI 2024 (Dec. 2023)
