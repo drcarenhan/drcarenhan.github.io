@@ -60,12 +60,12 @@
 *   Computer Analysis and Visualisation (Undergraduate Course, 2022 - 2023, University of Western Australia)
 
 ### Students (Graduates)
-*   **PhD Students**: Henry Weld, Siqu Long (Sharon), Siwen Luo, Jie Yang, Kunze Wang, Eileen Wang, Yihao Ding, Chen Chen, Jean Lee, Feiqi Cao, Rina Cabral, Fariza Rashid,  Yan Li, Zichen Geng, Xiaoge Zhang
-*   **Master Students**: Andy Bui, Taejun Lim, Zhihao Zhang, Yue Dai, Julia Juyoung Kim, Eric Pullukaran, Allen Ji, Shuo Yang
+*   **PhD Students**: Henry Weld, Jie Yang, Eileen Wang, Yihao Ding, Chen Chen, Jean Lee, Feiqi Cao, Rina Cabral, Fariza Rashid, Yan Li, Zichen Geng
+*   **Master Students**: Yue Dai, Eric Pullukaran, Allen Ji, Shuo Yang, Xiang Biao
 *   **Honours Students**: Jonathan Wang, Jamie Mickaill, Thye Shan Ng
 
 ### Alumni
-*   Yingru Lin (Alibaba, China), Siqu Long (IBM, China - back to PhD with me), Colin Gu (Freelancer.com ®, Australia), Rina Cabral (UNSW, Australia - back to PhD with me), Roy Luo (Huawei, China), Huichun Li (Tencent, China), Dong Lu (Opera Software International 'Opera Browser'), Zean Wen (Microsoft, China), Hamish Ivison (Allen Institute for AI, U.S.), Alex Mirrington (Rokt, Australia), Xiaoqi Huang (Deputy, Australia), Jeffery Zeng (Amazon, Australia)
+*   Yingru Lin (Alibaba, China), Siqu Long (IBM, China - back to PhD with me - University of Sydney),  Siwen Luo (University of Western Australia), Kunze Wang (Rokt, Australia), Colin Gu (Freelancer.com ®, Australia),  Rina Cabral (UNSW, Australia - back to PhD with me), Roy Luo (Huawei, China), Huichun Li (Tencent, China), Dong Lu (Opera Software International 'Opera Browser'), Zean Wen (Microsoft, China), Hamish Ivison (Allen Institute for AI, U.S.), Alex Mirrington (Rokt, Australia), Xiaoqi Huang (Deputy, Australia), Jeffery Zeng (Amazon, Australia), Taejun Lim, Andy Bui,  Zhihao Zhang (UNSW, Australia)
 
 ### International Academic/Industry/Government Collaborators
 *   **Industry/Government**: Australia Defense, Thales, Microsoft, FortifyEdge, Google, U.S. Naval Research Centre, U.S. AirForce Research Centre, Korea Ministry of Commerce Industry and Energy).
