@@ -2,7 +2,7 @@
 
 
 ### News (recent outstanding news)
-*   Two of our papers are accepted at IJCAI 2022 (Apr.2024)
+*   Two of our papers are accepted at IJCAI 2024 (Apr.2024)
 *   Our competition proposal is accepted at IJCAI 2024 (Apr. 2024)
 *   Our tutorial proposal is accepted at IJCAI 2024 (Apr. 2024)
 *   Our paper is accepted at ACM Computing Survey (Feb. 2024)
