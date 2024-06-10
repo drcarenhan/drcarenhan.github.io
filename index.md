@@ -56,6 +56,7 @@
 
 
 ### Teaching
+*   Natural Language Processing (Postgraduate Course, 2024, University of Melbourne) 
 *   Natural Language Processing (Postgraduate Course, 2023, University of Western Australia) Achieved 100% Student Satisfaction
 *   Natural Language Processing (Postgraduate Course, 2018 ~ 2022, University of Sydney) _Achieved Highest Student Satisfaction in the University_
 *   Machine Learning and Data Mining (Postgraduate Course, 2020, University of Sydney)
