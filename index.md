@@ -2,6 +2,7 @@
 
 
 ### News (recent outstanding news)
+*   Two of our papers are accepted at CIKM 2024 (Jul. 2024)
 *   Our paper is accepted at Artificial Intelligence Review (Impact Factor 11.7) (Jun. 2024)
 *   Our paper is accepted at ACL 2024 (May. 2024)
 *   Two of our long papers are accepted at IJCAI 2024 (Apr.2024)
