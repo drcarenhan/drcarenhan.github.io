@@ -2,6 +2,7 @@
 
 
 ### News (recent outstanding news)
+*   Our paper is accepted at Neural Computing and Applications (h index 135, Q1) (Oct. 2024)
 *   We organise a Workshop on Document Understanding and Intelligence at AAAI 2025 (Sep. 2024)
 *   Two of our papers are accepted at CIKM 2024 (Jul. 2024)
 *   Our paper is accepted at Artificial Intelligence Review (Impact Factor 11.7) (Jun. 2024)
