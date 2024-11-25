@@ -42,6 +42,7 @@
 
 ### Honors and Awards
 *   Early Career Research Award (Physics, Math and Computing), 2023, University of Western Australia
+*   BEST Paper Award Candidate, International Joint Conference on Artificial Intelligence, 2024
 *   Dean's Outstanding Teaching Award, 2018 - 2021, University of Sydney 
 *   Supervisor of the Year 2021, University of Sydney
 *   BEST AREA PAPER AWARD, THE 29TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS COLING 2020
