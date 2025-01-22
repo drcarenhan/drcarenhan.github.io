@@ -2,8 +2,9 @@
 
 
 ### News (recent outstanding news)
-*  Our paper is accepted at WWW 2025 (Jan. 2025)
-*  Two of our papers are accepted at AAAI 2025 (Dec. 2024)
+*   Our paper is accepted at NAACL 2025 (Feb. 2025)
+*   Our paper is accepted at WWW 2025 (Jan. 2025)
+*   Two of our papers are accepted at AAAI 2025 (Dec. 2024)
 *   We organise a Workshop on Document Understanding and Intelligence at AAAI 2025 (Oct. 2024)
 *   Our paper is accepted at Neural Computing and Applications (h index 135, Q1) (Sep. 2024)
 *   Two of our papers are accepted at CIKM 2024 (Jul. 2024)
