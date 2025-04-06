@@ -2,6 +2,7 @@
 
 
 ### News (recent outstanding news)
+*   Our paper is accepted at SIGIR 2025 (Apr. 2025)
 *   Our paper is accepted at NAACL 2025 (Feb. 2025)
 *   Our paper is accepted at WWW 2025 (Jan. 2025)
 *   Two of our papers are accepted at AAAI 2025 (Dec. 2024)
