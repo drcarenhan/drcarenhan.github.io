@@ -2,6 +2,7 @@
 
 
 ### News (recent outstanding news)
+*   Our paper is accetped at CIKM 2025 (Aug. 2025)
 *   Our paper is accetped at ECAI 2025 (Jul. 2025)
 *   Four of our papers are accepted at ACL 2025 (May. 2025)
 *   Our paper is accepted at IJCAI 2025 (May. 2025)
