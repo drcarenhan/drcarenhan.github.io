@@ -2,6 +2,7 @@
 
 
 ### News (recent outstanding news)
+*   Our paper is accetped at EMNLP 2025 (Aug. 2025)
 *   Our paper is accetped at CIKM 2025 (Aug. 2025)
 *   Our paper is accetped at ECAI 2025 (Jul. 2025)
 *   Four of our papers are accepted at ACL 2025 (May. 2025)
@@ -49,6 +50,7 @@
 
 
 ### Honors and Awards
+*   Google Research Award, 2024
 *   Early Career Research Award (Physics, Math and Computing), 2023, University of Western Australia
 *   BEST Paper Award Candidate, International Joint Conference on Artificial Intelligence, 2024
 *   Dean's Outstanding Teaching Award, 2018 - 2021, University of Sydney 
