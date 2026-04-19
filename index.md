@@ -8,7 +8,7 @@
 *   Our paper is accepted at Artificial Intelligence Review (Impact Factor 11.7, Q1) (Jan. 2026)
 *   Our paper is accepted at Information Fusion (Impact Factor 15.5, Q1) (Dec. 2025)
 *   We organise a full-day Community Activity at AAAI 2026  (Nov. 2025)
-*   Our paper is accepted at AAAI 2025 (Nov. 2025)
+*   Our paper is accepted at AAAI 2026 (Nov. 2025)
 *   Our paper is accepted at EMNLP 2025 (Aug. 2025)
 *   Our paper is accepted at CIKM 2025 (Aug. 2025)
 *   Our paper is accepted at ECAI 2025 (Jul. 2025)
