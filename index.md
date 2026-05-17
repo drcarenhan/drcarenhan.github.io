@@ -2,6 +2,7 @@
 
 
 ### News (recent outstanding news)
+*   Our paper is accepted at KDD 2026 (May. 2026)
 *   Our paper is accepted at ICML 2026 (May. 2026)
 *   Two of our papers are accepted at ACL 2026 (Apr. 2026)
 *   Two of our papers are accepted at SIGIR 2026 (Apr. 2026)
