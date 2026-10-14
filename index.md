@@ -2,6 +2,7 @@
 
 
 ### News (recent outstanding news)
+*   Two of our papers are accepted at NeurIPS 2026 (Oct. 2026)
 *   Two of our papers are accepted at EMNLP 2026 (Sep. 2026)
 *   Our paper is accepted at KDD 2026 (May. 2026)
 *   Two of our papers are accepted at ICML 2026 (May. 2026)
